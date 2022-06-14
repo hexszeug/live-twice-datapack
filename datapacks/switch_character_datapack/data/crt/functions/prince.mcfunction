@@ -1,0 +1,13 @@
+replaceitem entity @s armor.head minecraft:golden_helmet{Unbreakable:1b} 1
+replaceitem entity @s armor.chest minecraft:golden_chestplate{Unbreakable:1b} 1
+replaceitem entity @s armor.legs minecraft:golden_leggings{Unbreakable:1b} 1
+replaceitem entity @s armor.feet minecraft:golden_boots{Unbreakable:1b} 1
+replaceitem entity @s weapon.offhand minecraft:arrow 64
+replaceitem entity @s hotbar.0 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.1 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.2 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.3 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.4 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.5 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.6 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1
+replaceitem entity @s hotbar.7 minecraft:crossbow{Unbreakable:1b,ChargedProjectiles:[{id:"minecraft:arrow",Count:1b},{},{}],Charged:1b} 1

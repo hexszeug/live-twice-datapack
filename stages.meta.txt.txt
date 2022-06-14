@@ -1,0 +1,10 @@
+00 Standard-Floor
+01 Villa
+02 Nether
+03 Jump'n'Run
+04 Tower
+05 Pirates
+06 (Gray Town) Arbeitstitel
+07 3d Labyrinth
+08 Infinit Ice
+09 China

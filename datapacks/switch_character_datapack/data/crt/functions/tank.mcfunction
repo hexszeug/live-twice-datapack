@@ -1,0 +1,13 @@
+replaceitem entity @s armor.head minecraft:netherite_helmet{Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+replaceitem entity @s armor.chest minecraft:netherite_chestplate{Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+replaceitem entity @s armor.legs minecraft:netherite_leggings{Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+replaceitem entity @s armor.feet minecraft:netherite_boots{Unbreakable:1b,Enchantments:[{id:"minecraft:binding_curse",lvl:1s}]} 1
+replaceitem entity @s weapon.offhand minecraft:shield{Unbreakable:1b,BlockEntityTag:{Base:15,Patterns:[{Color:0,Pattern:"flo"}]}} 1
+replaceitem entity @s hotbar.0 minecraft:flint_and_steel{Unbreakable:1b} 1
+replaceitem entity @s hotbar.1 minecraft:tnt 15
+replaceitem entity @s hotbar.2 minecraft:obsidian 32
+replaceitem entity @s hotbar.3 minecraft:diamond_pickaxe{Unbreakable:1b} 1
+replaceitem entity @s hotbar.4 minecraft:water_bucket 1
+replaceitem entity @s hotbar.5 minecraft:bucket 1
+replaceitem entity @s hotbar.6 minecraft:bucket 1
+replaceitem entity @s hotbar.7 minecraft:lava_bucket 1
